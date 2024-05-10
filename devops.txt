@@ -1,2 +1,2 @@
-This is devops file edited from
+This is devops file edtited from
 vitual studio code
